@@ -1,4 +1,4 @@
-# NetTime Ecosystem - Client Display (V1.0.0-alpha)
+# NetTime Ecosystem - Client Display (v1.0.0-beta)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-42b983.svg)](https://opensource.org/licenses/MIT)
 
